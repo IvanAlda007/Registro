@@ -1,0 +1,7 @@
+imagen 1000x100
+imagen 700x900
+imagen 650x900
+imagen 1500x200
+imagen 1500x200
+
+cuatro imagenes y poner iformacion del tema que nos guste
